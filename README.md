@@ -23,7 +23,7 @@ This is a complete and ready-to-use React Native app built with **Expo**, provid
 ### 📥 How to Download
 1. Scan the QR code below to download the APK directly to your device.
 
-![QR Code Placeholder]
+<img src="./assets/Qr code.jpg" height="400" width="400">
 
 2. Install the APK and start exploring the app!
 
